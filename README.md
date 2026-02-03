@@ -139,7 +139,7 @@ $ cat /etc/os-release | grep PRETTY_NAME
 <!-- GitHub Metrics (Alternativa ao Streak) -->
 <div align="center">
   
-<img src="./streak-stats.svg" alt="GitHub Streak" />
+![My Metrics](github-metrics.svg)
 
 </div>
 
