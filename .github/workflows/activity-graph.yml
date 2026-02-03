@@ -1,0 +1,39 @@
+name: Generate Activity Graph
+
+on:
+  schedule:
+    - cron: "0 4 * * *"  # Roda todo dia às 4h da manhã
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Download Activity Graph SVG
+        run: |
+          mkdir -p profile
+          curl -s "https://github-readme-activity-graph.vercel.app/graph?username=AdamGabriel1&theme=dracula&bg_color=0D1117&color=00FF00&line=00FF00&point=FFFFFF&area=true&area_color=00FF0020&hide_border=true" > profile/activity-graph.svg
+
+      - name: Verify file was created
+        run: |
+          if [ -s profile/activity-graph.svg ]; then
+            echo "✅ Activity graph generated successfully"
+            head -20 profile/activity-graph.svg
+          else
+            echo "❌ Failed to generate activity graph"
+            exit 1
+          fi
+
+      - name: Commit and push
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add profile/activity-graph.svg
+          git diff --quiet && git diff --staged --quiet || git commit -m "📈 Update activity graph"
+          git push
