@@ -1,8 +1,8 @@
 <div align="center">
   
-![Banner](https://kimi-web-img.moonshot.cn/img/wallpaperaccess.com/8250e84b780f283ac0be93c550a65237695d9a56.jpg)
+![Banner](./assets/image1.jpg)
 
-<img src="https://kimi-web-img.moonshot.cn/img/wallup.net/38322e4221691bc082c702c7f75ccd96775ab974.jpg" width="120" style="border-radius: 50%; margin: 20px 0;" />
+<img src="./assets/tux.jpg" width="120" style="border-radius: 50%; margin: 20px 0;" />
 
 # 🐧 FullStack Developer & Linux Enthusiast
 
