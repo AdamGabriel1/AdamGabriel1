@@ -128,38 +128,11 @@ $ cat /etc/os-release | grep PRETTY_NAME
 
 <div align="center">
   
-<!-- GitHub Stats Card -->
-![Status de Contribuição](https://github-readme-streak-stats.herokuapp.com/?user=AdamGabriel1&theme=radical)
-
-<!-- Top Languages Card -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdamGabriel1&layout=compact&langs_count=10&theme=dracula&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=FFFFFF"/>
-
-</div>
-
-<!-- GitHub Metrics (Alternativa ao Streak) -->
-<div align="center">
-  
 ![My Metrics](github-metrics.svg)
 
 </div>
 
-<div align="center">
-  
-<!-- GitHub Trophy -->
-<img src="https://github-profile-trophy.vercel.app/?username=AdamGabriel1&theme=dracula&no-frame=true&no-bg=true&margin-w=4&row=1&column=7"/>
-
-</div>
-
----
-
-## 📈 Atividade & Contribuições
-
-<div align="center">
-  
-<!-- GitHub Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AdamGabriel1&theme=dracula&bg_color=0D1117&color=00FF00&line=00FF00&point=FFFFFF&hide_border=true&area=true&area_color=00FF0020"/>
-
-</div>
+## 📈 Contribuições
 
 <div align="center">
   
