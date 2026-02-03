@@ -136,10 +136,10 @@ $ cat /etc/os-release | grep PRETTY_NAME
 
 </div>
 
+<!-- GitHub Metrics (Alternativa ao Streak) -->
 <div align="center">
   
-<!-- GitHub Streak Stats -->
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AdamGabriel1&theme=dracula&hide_border=true&background=0D1117&stroke=00FF00&ring=00FF00&fire=FF6B6B&currStreakLabel=00FF00&sideLabels=00FF00&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF"/>
+<img src="https://metrics.lecoq.io/AdamGabriel1?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=America%2FSao_Paulo&theme=dracula" alt="Metrics" width="100%"/>
 
 </div>
 
