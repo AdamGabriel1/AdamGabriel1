@@ -1,0 +1,39 @@
+name: Metrics
+
+on:
+  schedule:
+    - cron: "0 * * * *"  # Atualiza a cada hora
+  workflow_dispatch:      # Permite rodar manualmente
+  push:
+    branches: ["master", "main"]
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate GitHub Metrics
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: AdamGabriel1
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: America/Sao_Paulo
+          plugin_languages: yes
+          plugin_languages_sections: most-used
+          plugin_languages_details: percentage
+          output: profile/metrics.svg
+
+      - name: Commit and push
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git add profile/metrics.svg
+          git diff --quiet && git diff --staged --quiet || git commit -m "📊 Update metrics"
+          git push
