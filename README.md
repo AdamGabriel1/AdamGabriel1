@@ -129,7 +129,7 @@ $ cat /etc/os-release | grep PRETTY_NAME
 <div align="center">
   
 <!-- GitHub Stats Card -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AdamGabriel1&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00&text_color=FFFFFF&include_all_commits=true&count_private=true&ring_color=00FF00"/>
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=AdamGabriel1&show_icons=true&theme=radical)
 
 <!-- Top Languages Card -->
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdamGabriel1&layout=compact&langs_count=10&theme=dracula&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=FFFFFF"/>
