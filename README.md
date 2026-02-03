@@ -128,9 +128,43 @@ $ cat /etc/os-release | grep PRETTY_NAME
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdamGabriel1&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00&text_color=FFFFFF)
+<!-- GitHub Stats Card -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AdamGabriel1&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00&text_color=FFFFFF&include_all_commits=true&count_private=true&ring_color=00FF00"/>
+
+<!-- Top Languages Card -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdamGabriel1&layout=compact&langs_count=10&theme=dracula&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=FFFFFF"/>
+
+</div>
+
+<div align="center">
   
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdamGabriel1&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=FFFFFF)
+<!-- GitHub Streak Stats -->
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AdamGabriel1&theme=dracula&hide_border=true&background=0D1117&stroke=00FF00&ring=00FF00&fire=FF6B6B&currStreakLabel=00FF00&sideLabels=00FF00&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF"/>
+
+</div>
+
+<div align="center">
+  
+<!-- GitHub Trophy -->
+<img src="https://github-profile-trophy.vercel.app/?username=AdamGabriel1&theme=dracula&no-frame=true&no-bg=true&margin-w=4&row=1&column=7"/>
+
+</div>
+
+---
+
+## 📈 Atividade & Contribuições
+
+<div align="center">
+  
+<!-- GitHub Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AdamGabriel1&theme=dracula&bg_color=0D1117&color=00FF00&line=00FF00&point=FFFFFF&hide_border=true&area=true&area_color=00FF0020"/>
+
+</div>
+
+<div align="center">
+  
+<!-- 3D Contributions -->
+<img src="https://github.com/AdamGabriel1/AdamGabriel1/blob/output/github-contribution-grid-snake.svg" alt="Snake eating my contributions" />
 
 </div>
 
@@ -162,6 +196,21 @@ WM: KDE Plasma / Hyprland (Wayland)
 
 ---
 
+## 📌 Repositórios em Destaque
+
+<div align="center">
+
+<a href="https://github.com/AdamGabriel1/repo1">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AdamGabriel1&repo=repo1&theme=dracula&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00&text_color=FFFFFF" />
+</a>
+<a href="https://github.com/AdamGabriel1/repo2">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AdamGabriel1&repo=repo2&theme=dracula&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00&text_color=FFFFFF" />
+</a>
+
+</div>
+
+---
+
 ## 🌐 Conecte-se Comigo
 
 <div align="center">
@@ -178,15 +227,13 @@ WM: KDE Plasma / Hyprland (Wayland)
 
 ### 💻 "Falar é fácil. Me mostre o código." - Linus Torvalds
 
-![Snake animation](https://github.com/AdamGabriel1/AdamGabriel1/blob/output/github-contribution-grid-snake.svg)
-
 </div>
 
 ---
 
 <div align="center">
   
-![Profile Views](https://komarev.com/ghpvc/?username=AdamGabriel1&color=00FF00&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=AdamGabriel1&color=00FF00&style=flat-square&label=Visualizações+do+Perfil)
   
 ⭐ **Dê uma estrela nos meus repositórios se achá-los úteis!** ⭐
 
