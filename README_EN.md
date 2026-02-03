@@ -4,24 +4,24 @@
 
 <img src="./assets/tux.jpg" width="120" style="border-radius: 50%; margin: 20px 0;" />
 
-# 🐧 Desenvolvedor FullStack & Entusiasta Linux
+# 🐧 FullStack Developer & Linux Enthusiast
 
-**`Construindo o futuro, um commit de cada vez`**
+**`Building the future, one commit at a time`**
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Mundo!+👋;Bem-vindo+ao+meu+perfil+GitHub!;Eu+amo+Linux+e+Código+Aberto;Desenvolvimento+FullStack+é+minha+paixão;I+use+Arch,+btw!+🐧;Vamos+construir+algo+incrível+juntos!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=35&center=true&vCenter=true&width=1000&lines=Hello,+World!+👋;Welcome+to+my+GitHub+Profile!;I+love+Linux+and+Open+Source;FullStack+Development+is+my+passion;I+use+Arch,+btw!+🐧;Let's+build+something+amazing+together!)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 🚀 Sobre Mim
+## 🚀 About Me
 
 ```bash
 $ whoami
-> Adam Gabriel - Desenvolvedor FullStack & Técnico em Informática
+> Adam Gabriel - FullStack Developer & IT Technician
 
 $ echo $AGE
-> 0b00010010 # 18 anos em binário! 💻
+> 0b00010010 # 18 years old in binary! 💻
 
 $ uname -a
 > Linux cachyos 6.12.0-zen1-1-zen #1 ZEN SMP PREEMPT_DYNAMIC x86_64 GNU/Linux
@@ -33,18 +33,18 @@ $ cat /etc/os-release | grep PRETTY_NAME
 > PRETTY_NAME="CachyOS" # I use Arch, btw! 🐧
 ```
 
-- 🔭 **Atualmente trabalhando em:** Aplicações web escaláveis e microsserviços
-- 🌱 **Aprendendo:** Internais avançados do kernel Linux & tecnologias Cloud Native
-- 🎓 **Formação:** Técnico em Informática
-- 💬 **Pergunte-me sobre:** Linux, Docker, Arquitetura Backend, ou qualquer coisa tech!
-- ⚡ **Curiosidade:** Eu automatizo tudo com scripts Bash
-- 🐧 **Distro Atual:** CachyOS (Arch-based) - I use Arch, btw!
+- 🔭 **Currently working on:** Scalable web applications and microservices
+- 🌱 **Learning:** Advanced Linux kernel internals & Cloud Native technologies
+- 🎓 **Education:** IT Technician
+- 💬 **Ask me about:** Linux, Docker, Backend Architecture, or anything tech!
+- ⚡ **Fun fact:** I automate everything with Bash scripts
+- 🐧 **Current Distro:** CachyOS (Arch-based) - I use Arch, btw!
 
 ---
 
-## 🐧 Jornada Linux: Distros que já usei
+## 🐧 Linux Journey: Distros I've Used
 
-### 🏆 **Favoritas (Top Tier)**
+### 🏆 **Favorites (Top Tier)**
 ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![BigLinux](https://img.shields.io/badge/BigLinux-FF6B6B?style=for-the-badge&logo=linux&logoColor=white)
 ![Arco Linux](https://img.shields.io/badge/Arco%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
@@ -52,18 +52,18 @@ $ cat /etc/os-release | grep PRETTY_NAME
 ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
 ![NixOS](https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white)
 
-> **Por que Arch Linux?** Adoro a filosofia **DIY (Do It Yourself)** e **KISS (Keep It Simple, Stupid)**. O controle total sobre o sistema é libertador!
+> **Why Arch Linux?** I love the **DIY (Do It Yourself)** and **KISS (Keep It Simple, Stupid)** philosophy. Total control over the system is liberating!
 
-### ⭐ **Gosto muito**
+### ⭐ **Really Like**
 ![Garuda Linux](https://img.shields.io/badge/Garuda%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![Zorin OS](https://img.shields.io/badge/Zorin%20OS-15A6F0?style=for-the-badge&logo=zorin&logoColor=white)
 ![Pop!_OS](https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=popos&logoColor=white)
 ![Bluefin](https://img.shields.io/badge/Bluefin-0056D2?style=for-the-badge&logo=fedora&logoColor=white)
 
-### 📋 **Todas as distros que já experimentei:**
+### 📋 **All distros I've tried:**
 
 **🎯 Arch-based:**
-- Arch Linux (❤️ a filosofia DIY/KISS)
+- Arch Linux (❤️ love the DIY/KISS philosophy)
 - Manjaro
 - BigLinux (❤️)
 - EndeavourOS
@@ -88,7 +88,7 @@ $ cat /etc/os-release | grep PRETTY_NAME
 
 ---
 
-## 🛠️ Stack Tecnológico
+## 🛠️ Tech Stack
 
 ### 🎨 Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -113,7 +113,7 @@ $ cat /etc/os-release | grep PRETTY_NAME
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### 🐳 DevOps & Ferramentas
+### 🐳 DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Podman](https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white)
@@ -124,7 +124,7 @@ $ cat /etc/os-release | grep PRETTY_NAME
 
 ---
 
-## 📊 Estatísticas GitHub
+## 📊 GitHub Stats
 
 <div align="center">
   
@@ -136,33 +136,33 @@ $ cat /etc/os-release | grep PRETTY_NAME
 
 ---
 
-## 🐧 Meu Setup Linux
+## 🐧 My Linux Setup
 
 ```bash
-# 🖥️ Ambiente de Desenvolvimento
+# 🖥️ Development Environment
 OS: CachyOS (Arch Linux-based)
-Kernel: Linux Zen (otimizado para desktop)
-Shell: Bash + Zsh com Oh-My-Zsh
+Kernel: Linux Zen (desktop optimized)
+Shell: Bash + Zsh with Oh-My-Zsh
 Editor: Neovim / VS Code
 Terminal: Alacritty / Kitty
 WM: KDE Plasma / Hyprland (Wayland)
 
-# 🛠️ Ferramentas Diárias
-- Docker & Podman para containerização
-- Tmux para multiplexação de terminal
-- Git para controle de versão
+# 🛠️ Daily Tools
+- Docker & Podman for containerization
+- Tmux for terminal multiplexing
+- Git for version control
 - Paru/Yay (AUR helpers)
-- Make & CMake para builds
+- Make & CMake for builds
 
-# 🎨 Customização
-- Tema: Dracula / Catppuccin
-- Ícones: Papirus / Tela-circle
-- Fonte: JetBrains Mono Nerd Font
+# 🎨 Customization
+- Theme: Dracula / Catppuccin
+- Icons: Papirus / Tela-circle
+- Font: JetBrains Mono Nerd Font
 ```
 
 ---
 
-## 🌐 Conecte-se Comigo
+## 🌐 Connect With Me
 
 <div align="center">
 
@@ -176,7 +176,7 @@ WM: KDE Plasma / Hyprland (Wayland)
 
 <div align="center">
 
-### 💻 "Falar é fácil. Me mostre o código." - Linus Torvalds
+### 💻 "Talk is cheap. Show me the code." - Linus Torvalds
 
 ![Snake animation](https://github.com/AdamGabriel1/AdamGabriel1/blob/output/github-contribution-grid-snake.svg)
 
@@ -188,7 +188,7 @@ WM: KDE Plasma / Hyprland (Wayland)
   
 ![Profile Views](https://komarev.com/ghpvc/?username=AdamGabriel1&color=00FF00&style=flat-square)
   
-⭐ **Dê uma estrela nos meus repositórios se achá-los úteis!** ⭐
+⭐ **Star my repos if you find them useful!** ⭐
 
 </div>
 
