@@ -128,7 +128,7 @@ $ cat /etc/os-release | grep PRETTY_NAME
 
 <div align="center">
   
-![My Metrics](github-metrics.svg)
+![My Metrics](profile/metrics.svg)
 
 </div>
 
