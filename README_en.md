@@ -1,16 +1,8 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.png">
-  <img alt="Banner" src="./assets/banner-light.png">
-</picture>
+![Banner](./assets/image1.jpg)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/tux-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/tux-light.png">
-  <img src="./assets/tux-light.png" width="120" style="border-radius: 50%; margin: 20px 0;" alt="Tux">
-</picture>
+<img src="./assets/tux.jpg" width="120" style="border-radius: 50%; margin: 20px 0;" alt="Tux" />
 
 # 🐧 FullStack Developer & Linux Enthusiast
 
